@@ -1,0 +1,38 @@
+_repo: The-Forests-of-Mount-Rainier-National-Park_31994
+_version: 0.1.0
+contributor:
+  other_contributors:
+  - agent_name: United States. Forest Service
+    gutenberg_agent_id: '37039'
+    url: http://www.gutenberg.org/2009/agents/37039
+  - agent_name: United States. Department of the Interior
+    aliases:
+    - Interior, United States Dept. of the
+    - United States. Dept. of the Interior
+    gutenberg_agent_id: '9338'
+    url: http://www.gutenberg.org/2009/agents/9338
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Allen, G. F. (Grenville F.)
+    alias: Allen, Grenville F.
+    gutenberg_agent_id: '35605'
+    url: http://www.gutenberg.org/2009/agents/35605
+description: ''
+gutenberg_issued: '2010-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31994'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Forests and forestry -- Washington (State) -- Mount Rainier National Park'
+- !lcsh 'Mount Rainier National Park (Wash.)'
+- !lcsh 'Trees -- Washington (State) -- Mount Rainier National Park'
+- !lcc 'F850.5'
+title: The Forests of Mount Rainier National Park
+url: http://www.gutenberg.org/ebooks/31994
